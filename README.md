@@ -7,5 +7,5 @@ This repository contains the code for Physics Lab 2 (PHY 2010) at the Ashoka Uni
 5. Observing free fall of a body that experiences air resistance and a body that experiences negligible air resistance
 6. Using Kater's pendulum to find the local value of acceleration due to gravity 
 
-Note: This is not official code from the University, this is my personal code written when I took the course there might be more efficient methods that can be used when analysing data, please be wary of errors
-some of these code files might not contain the code for the entire experiment as the coding involved with each experiment was divided between my lab partner and I
+Note: This is not official code from the University, this is my personal code written when I took the course. There might be more efficient methods that can be used when analysing data, please be wary of errors.
+Some of these files might not contain the code for the entire experiment as the coding involved with each experiment was divided between my lab partner and I
